@@ -1,5 +1,6 @@
 # Site-do-Progresso-do-Sambizaga
 Website institucional do Progresso do Sambizanga, desenvolvido com HTML5, CSS3 e JavaScript, com foco na identidade visual do clube, apresentação da sua história, divulgação de patrocinadores e valorização da sua presença no futebol angolano.
+
 <img width="1339" height="637" alt="image" src="https://github.com/user-attachments/assets/346370ea-0fc5-44d4-8790-bd287d031c7e" />
 <img width="1328" height="621" alt="image" src="https://github.com/user-attachments/assets/d1ff0f3d-114e-4814-a1d0-8a1dbd4fae25" />
 <img width="1338" height="639" alt="image" src="https://github.com/user-attachments/assets/4e12768a-f7b1-45f6-b5a2-b920b09a061d" />
